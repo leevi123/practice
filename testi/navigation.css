@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap");
+#navigation {
+  margin: 0 auto;
+  width: 40%;
+  border: 6px solid green;
+  padding: 10px;
+  text-align: center;
+}
+#navigation a {
+  font-family: "Montserrat", sans-serif;
+  color: rgb(17, 13, 44);
+}
+#navigation a:hover {
+  color: black;
+}
+#search {
+  display: block;
+  border: 3px solid green;
+  padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+  text-align: center;
+}
+.search-bar {
+  font-family: "Montserrat", sans-serif;
+  font-size: medium;
+  width: 220px;
+  height: 48px;
+  text-align: center;
+}

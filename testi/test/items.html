@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  </head>
+  <body>
+    <header>
+      <div id="navigation">
+        <a href=".html">page</a>
+        <a href="main.html">Home page</a>
+        <a href="items.html">Profiles page</a>
+        <a href="developers.html">Developers page</a>
+        <a href=".html">page</a>
+      </div>
+    </header>
+    <style>
+      @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap");
+      #navigation {
+        margin: 0 auto;
+        width: 40%;
+        border: 6px solid green;
+        padding: 10px;
+        text-align: center;
+      }
+      #navigation a {
+        font-family: "Montserrat", sans-serif;
+        color: green;
+      }
+      #navigation a:hover {
+        color: black;
+      }
+    </style>
+    <div id="items">
+      <p>Rust Items</p>
+      <div id="item">
+        <p>HV Rocket</p>
+        <img src="/html_course/images/hv rocket.jpg" alt="Image of HV Rocket" />
+        <p>Description</p>
+        <p>
+          Contrary to other forms of high velocity ammunition, this type of
+          ammunition deals less damage than ordinary rockets. While High
+          Velocity Rockets are not encouraged for use in damaging structures,
+          they serve a special function in Player vs. Player engagements and
+          damaging vehicles. High velocity rockets used to be able to be
+          salvaged at the Recycler for explosives and gunpowder. This used to
+          provide a player with an easy way to acquire an explosive for
+          research. This is no longer possible as High velocity rockets no
+          longer require explosives to craft. Explosives were removed from the
+          ingredients as of the Transport Helicopter Update.
+        </p>
+      </div>
+      <div id="space"></div>
+      <div id="item">
+        <p>Elite Crate</p>
+        <img
+          src="/html_course/images/elite crate.jpg"
+          alt="Image of Elite Crate"
+        />
+        <p>Description</p>
+        <p>
+          Elite Tier Crates can be found at the Launch Site, Military Tunnels
+          and the Oil Rig monuments. These crates contain loot that tends to be
+          more rare than red toolboxes and military crates. These crates when
+          compared to the military crates may be about the same in loot quantity
+          and items but they may also contain more items than military crates,
+          it really just depends but chances are elite crates will contain more
+          loot than any other crate. The elite crate has a 15 minute spawn rate,
+          and at the launch site, can be found 1 to 2 times in one run.
+        </p>
+      </div>
+    </div>
+    <style>
+      @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap");
+      #items {
+        font-family: "Montserrat", sans-serif;
+      }
+      #items > p {
+        font-size: xx-large;
+      }
+      #item {
+        margin: auto;
+        width: 75%;
+        border: 3px solid green;
+        padding-top: 0px;
+        padding-bottom: 0px;
+      }
+      #item > p {
+        font-size: large;
+        text-align: center;
+        padding: 10px;
+      }
+      #item > img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 15%;
+      }
+      #space {
+        padding-top: 25px;
+        padding-bottom: 25px;
+      }
+    </style>
+  </body>
+</html>

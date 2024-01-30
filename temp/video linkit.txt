@@ -1,0 +1,8 @@
+3.Next js Tutorial for Beginners | Nextjs 13 (App Router) with TypeScript: https://www.youtube.com/watch?v=ZVnjOPwW4ZA
+
+2.React Tutorial for Beginners: https://www.youtube.com/watch?v=SqcY0GlETPk
+2.TypeScript Tutorial for Beginners: https://www.youtube.com/watch?v=d56mG7DezGs
+
+1.JavaScript Tutorial for Beginners: https://www.youtube.com/watch?v=W6NZfCO5SIk
+1.HTML Tutorial for Beginners: https://www.youtube.com/watch?v=qz0aGYrrlhU
+1.HTML & CSS Full Course: https://www.youtube.com/watch?v=G3e-cpL7ofc
