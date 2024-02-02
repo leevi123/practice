@@ -1,0 +1,38 @@
+p {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-family: Arial;
+}
+.title {
+  color: rgb(54, 54, 54);
+  margin-bottom: 5px;
+}
+
+.email {
+  width: 365px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-radius: 5px;
+  border-width: 2px;
+  border-style: solid;
+  margin-bottom: 20px;
+}
+
+.privacy {
+  color: rgb(54, 54, 54);
+  font-size: 15px;
+  margin-bottom: 20px;
+}
+
+.join-button {
+  border: none;
+  cursor: pointer;
+  background-color: rgb(0, 102, 255);
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  width: 365px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-radius: 30px;
+}
