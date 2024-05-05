@@ -1,0 +1,11 @@
+Result: 39.0 divide 2.0 = 19.5
+Result: 31.0 multiply 3.0 = 93.0
+Result: 36.0 subtract 5.0 = 31.0
+Result: 28.0 divide 4.0 = 7.0
+Result: 38.0 add 2.0 = 40.0
+Result: 44.0 divide 5.0 = 8.8
+Result: 33.0 multiply 1.0 = 33.0
+Result: 23.0 subtract 3.0 = 20.0
+Result: 22.0 divide 4.0 = 5.5
+Result: 29.0 multiply 1.0 = 29.0
+Result: 41.0 add 3.0 = 44.0
